@@ -1,0 +1,68 @@
+body {
+    background-image: ;
+    background-color: rgb(235, 232, 232);
+    
+}
+
+.home {
+    
+    border: 1px solid;
+
+}
+
+
+
+.secaoperfil {
+    
+    
+    background-size: cover;
+    color: black;
+    padding: 100px 20px;
+    
+    
+    
+    
+}
+
+.sobre {
+
+    
+    
+    
+   
+    
+
+}
+
+.fotosobre {
+    border: 1px solid;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid beige ;
+    margin-bottom: 10px ; 
+}
+
+.fotoperfil {
+    
+    border: 1px solid;
+    width: 500px;
+    height: 300px;
+       
+}
+
+.nav {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+.links {
+    
+    background-size: cover;
+    color: black;
+    padding: 100px 20px;
+}
